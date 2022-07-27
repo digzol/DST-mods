@@ -1,0 +1,11 @@
+name = "Stale Component Buster"
+description = [[Keeps track of past entities to crack down on stale component references.]]
+author = "Platypus, KoreanWaffles"
+version = "1.0.2"
+version_compatible = "1.0.0"
+api_version = 10
+all_clients_require_mod = false
+dont_starve_compatible = false
+dst_compatible = true
+--icon_atlas = "modicon.xml"
+--icon = "modicon.tex"

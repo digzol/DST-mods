@@ -1,0 +1,11 @@
+name = "Auto-Unequip LESS (Config Tweak)"
+description = "Configuration for Auto-Unequip on 1% to ignore more unrepairable and unbreaking items."
+author = "That One Platypus"
+version = "1.0.6"
+api_version = 10
+dst_compatible = true
+client_only_mod = true
+dont_starve_compatible = false
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
+priority = -1

@@ -80,7 +80,7 @@ if not PARENT_MOD_INDEX then
 end
 
 -- Weird workaround for "variable 'NONREFILLABLE' is not declared" when trying to do "if not _G.NONREFILLABLE ..."
-local isTableFound = true
+local isTableFound = false
 for k,_ in pairs(_G) do
     if (k == "NONREFILLABLE") then
         isTableFound = true

@@ -1,7 +1,7 @@
 name = "Auto-Unequip LESS (Config Tweak)"
 description = "Configuration for Auto-Unequip on 1% to ignore more unrepairable and unbreaking items."
 author = "That One Platypus"
-version = "1.0.7"
+version = "1.0.8"
 api_version = 10
 dst_compatible = true
 client_only_mod = true

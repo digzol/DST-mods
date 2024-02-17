@@ -5,6 +5,9 @@ local PARENT_MOD_INDEX = _G.KnownModIndex:GetModActualName(PARENT_MOD_NAME)
 
 local EXCLUDED_WORN_ITEMS =
 {
+    -- VANILLA IGNORE
+    "wathgrithr_improvedhat",
+
     -- VANILLA UNREPAIRABLES
     "armor_bramble",
     "cookiecutterhat",
